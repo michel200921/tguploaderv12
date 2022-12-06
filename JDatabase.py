@@ -50,7 +50,7 @@ class JsonDatabase(object):
                      'moodle_password': 'Martinez200921*',
                      'isadmin': 1,
                      'zips': 250,
-                     'uploadtype':'calendario',
+                     'uploadtype':'calendar',
                      'proxy':'',
                      'tokenize':0,
                      'rename':0,
